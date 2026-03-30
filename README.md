@@ -9,5 +9,6 @@ Technologies I have Used
 - HTML
 - CSS
 - JavaScript
+  
 Description
 This project helps users manage their daily tasks in a simple and user-friendly way.
